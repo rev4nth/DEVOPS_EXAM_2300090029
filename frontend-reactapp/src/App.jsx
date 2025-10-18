@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <BrowserRouter>
-      <Navbar />
+      <NavBar />
       </BrowserRouter>
     </div>
   );
