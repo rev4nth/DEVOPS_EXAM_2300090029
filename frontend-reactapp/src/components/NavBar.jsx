@@ -4,7 +4,7 @@ import ProductList from "./ProductList";
 import AddProduct from "./AddProduct";
 import EditProduct from "./EditProduct";
 import ViewProduct from "./ViewProduct";
-import "./navbar.css";
+import  "./NavBar.css";
 
 function Navbar() {
   return (
